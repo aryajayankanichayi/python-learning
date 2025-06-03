@@ -5,7 +5,7 @@ This repository contains beginner-level Python practice notebooks as I learn Pyt
 ## 📘 Today's Practice
 
 **Topic:** Swapping Two Variables 
-**Notebook:** `01_swapping_variables.ipynb`
+**Notebook:** `01_Swapping_Variables.ipynb`
 
 This notebook covers different ways to swap the values of two variables in Python:
 
