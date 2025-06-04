@@ -23,7 +23,7 @@ This notebook covers different ways to swap the values of two variables in Pytho
 - Worked with `break`, `continue`, and `pass`
 - Solved small logic problems to reinforce loop understanding
 
-📁 File: [`02_Conditions_Loops.ipynb`]([link-to-your-notebook](https://github.com/aryajayankanichayi/python-learning/blob/main/02_Coditions_Loops.ipynb))
+📁 File: [`02_Conditions_Loops.ipynb`][link-to-your-notebook](https://github.com/aryajayankanichayi/python-learning/blob/main/02_Coditions_Loops.ipynb)
 
 
 ### 🔧 Technologies Used
