@@ -14,6 +14,18 @@ This notebook covers different ways to swap the values of two variables in Pytho
 - Swapping using arithmetic operations
 - Swapping using XOR bitwise operator
 
+---
+
+## 🧮 Python Conditions and Loops
+
+- Practiced `if`, `elif`, and `else` statements
+- Learned `for` and `while` loops with examples
+- Worked with `break`, `continue`, and `pass`
+- Solved small logic problems to reinforce loop understanding
+
+📁 File: [`02_Conditions_Loops.ipynb`](link-to-your-notebook)
+
+
 ### 🔧 Technologies Used
 - **Python 3**
 - **Google Colab** (for writing and running code)
@@ -23,7 +35,8 @@ This notebook covers different ways to swap the values of two variables in Pytho
 
 ## 🗂️ Repository Structure
 python-learning/
-     01_Swapping_Variables.ipynb
+     01_Swapping_Variables.ipynb/
+     
      README.md
      
 ---
