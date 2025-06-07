@@ -32,26 +32,17 @@ This notebook covers different ways to swap the values of two variables in Pytho
 This section explores basic array operations using Python's `array` module and some built-in functions.
 
 ### ✅ Concepts Demonstrated:
-- `buffer_info()` – memory details of the array
-- `typecode` – to get datatype of array elements
-- `.reverse()` – reversing the array
-- `len()` – finding the array length
-- Creating a new array with squares of original elements
+- buffer_info()
+- typecode
+- .reverse()
+- len()
+- Creating squares array
 - Sorting using in-built functions
-- Factorial calculation using `math.factorial()`
-- Accepting user input into arrays
+- Factorial using `math`
+- User input into array
 
-### 📍 Highlights:
-```python
-arr.reverse()
-len(arr)
-math.factorial(5)
-
-### 🔧 Technologies Used
-- **Python 3**
-- **Google Colab** (for writing and running code)
-- Notebook format: `.ipynb`
-📁 File: [`03_Arrays.ipynb`](https://github.com/aryajayankanichayi/python-learning/blob/main/03_Arrays.ipynb)
+### 🔗 View the Notebook  
+[03_Arrays.ipynb](https://github.com/aryajayankanichayi/python-learning/blob/main/03_Arrays.ipynb)
 
 ---
 
