@@ -72,6 +72,21 @@ This notebook explores key NumPy functionalities and deepens understanding of ar
 
 ---
 
+### 📘 05_Basics_in_python.ipynb – Python Basics: Data Types, Collections & Functions
+
+This notebook covers foundational Python concepts with beginner-friendly examples.
+
+#### 🔍 Topics Covered:
+- **Variables** – Declaration and assignment
+- **Lists** – Indexing, slicing, appending, etc.
+- **Tuples** – Immutable collections and usage
+- **Sets** – Handling unique elements and set operations
+- **Dictionaries** – Key-value pairs, updating/accessing elements
+- **Mathematical Functions** – `abs()`, `round()`, `pow()`, and more
+
+#### 🔗 [View this notebook on Google Colab](PASTE_YOUR_NOTEBOOK_LINK_HERE)
+---
+
 ## 🗂️ Repository Structure
 python-learning/
      01_Swapping_Variables.ipynb/
