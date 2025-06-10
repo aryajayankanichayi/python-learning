@@ -94,6 +94,7 @@ python-learning/
      02_Conditions_Loops.ipynb/
      03_Arrays.ipynb/
      04_Numpy.ipynb/
+     05_Basics_in_python.ipynb/
      README.md
      
 ---
