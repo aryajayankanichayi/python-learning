@@ -65,7 +65,7 @@ This notebook explores key NumPy functionalities and deepens understanding of ar
   - **View**  → creates a new object, shares data  
   - **Copy**  → creates a completely independent object  
 - **Manual max finder (no built-in functions)**:
-  - Wrote logic to find the **maximum element in a NumPy array** using a basic loop.`
+  - Wrote code to find the **maximum element in a NumPy array** using a basic loop.`
 
 ### 📂 Notebook Link:
 [🔗 04_Numpy.ipynb](https://github.com/aryajayankanichayi/python-learning/blob/main/04_Numpy.ipynb)
