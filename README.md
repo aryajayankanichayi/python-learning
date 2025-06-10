@@ -54,36 +54,30 @@ This notebook explores key NumPy functionalities and deepens understanding of ar
 - **Array creation** using:
   - `linspace()`
   - `arange()`
+  - `zeros()`
+  - `ones()`
+  - `logspace()`
 - **Array operations**:
   - Element-wise operations
   - Vectorized calculations
 - **Copying arrays – 3 distinct techniques**:
-  - **Aliasing** (`b = a`) → both variables point to same data  
-  - **View** (`b = a.view()`) → creates a new object, shares data  
-  - **Copy** (`b = a.copy()`) → creates a completely independent object  
+  - **Aliasing**  → both variables point to same data  
+  - **View**  → creates a new object, shares data  
+  - **Copy**  → creates a completely independent object  
 - **Manual max finder (no built-in functions)**:
-  - Wrote logic to find the **maximum element in a NumPy array** using a basic loop, without using `max()` or `np.max()`
+  - Wrote logic to find the **maximum element in a NumPy array** using a basic loop.`
 
 ### 📂 Notebook Link:
-[🔗 View this Notebook in Google Colab](https://colab.research.google.com/drive/1H8zM1FFkBoR-C6z6R9lGdxo9RvkiS4Fu?usp=sharing)
+[🔗 04_Numpy.ipynb](https://github.com/aryajayankanichayi/python-learning/blob/main/04_Numpy.ipynb)
 
 ---
-
-### 💡 Notes:
-- Understanding how NumPy handles **memory referencing** helps avoid common bugs during large-scale data manipulation.
-- Implementing logic without built-in methods strengthens **problem-solving and core programming** skills.
-
-### ✅ How to Use This:
-Clone the repo or open the Colab link. Try:
-- Changing array values to see how aliasing or copying affects results
-- Modifying the manual max-finder logic to find **min**, **sum**, etc.
-
 
 ## 🗂️ Repository Structure
 python-learning/
      01_Swapping_Variables.ipynb/
      02_Conditions_Loops.ipynb/
      03_Arrays.ipynb/
+     04_Numpy.ipynb/
      README.md
      
 ---
