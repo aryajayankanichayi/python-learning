@@ -84,7 +84,8 @@ This notebook covers foundational Python concepts with beginner-friendly example
 - **Dictionaries** – Key-value pairs, updating/accessing elements
 - **Mathematical Functions** – `abs()`, `round()`, `pow()`, and more
 
-#### 🔗 [View this notebook on Google Colab](PASTE_YOUR_NOTEBOOK_LINK_HERE)
+ [🔗 05_Basics_in_python.ipynb](https://github.com/aryajayankanichayi/python-learning/blob/main/05_Basics_in_python.ipynb)
+ 
 ---
 
 ## 🗂️ Repository Structure
