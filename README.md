@@ -82,7 +82,7 @@ This notebook covers foundational Python concepts with beginner-friendly example
 - **Tuples** – Immutable collections and usage
 - **Sets** – Handling unique elements and set operations
 - **Dictionaries** – Key-value pairs, updating/accessing elements
-- **Mathematical Functions** – `abs()`, `round()`, `pow()`, and more
+- **Mathematical Functions** – `sqrt()`, `pow()`
 
  [🔗 05_Basics_in_python.ipynb](https://github.com/aryajayankanichayi/python-learning/blob/main/05_Basics_in_python.ipynb)
  
