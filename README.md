@@ -112,6 +112,7 @@ python-learning/
      03_Arrays.ipynb/
      04_Numpy.ipynb/
      05_Basics_in_python.ipynb/
+     06_Matrix_Operations.ipynb/
      README.md
      
 ---
