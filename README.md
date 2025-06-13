@@ -88,7 +88,7 @@ This notebook covers foundational Python concepts with beginner-friendly example
  
 ---
 
-### 📘 05_Matrix_Operations.ipynb
+### 📘 06_Matrix_Operations.ipynb
 
 This notebook covers fundamental matrix operations using NumPy, including:
 
@@ -101,7 +101,7 @@ This notebook covers fundamental matrix operations using NumPy, including:
   - `diagonal()`, `min()`, `max()`
 - Simple matrix multiplication example
 
-🔗 [View Notebook](https://github.com/your-username/your-repo-name/blob/main/05_Matrix_Operations.ipynb)
+🔗 [View Notebook](https://github.com/aryajayankanichayi/python-learning/blob/main/06_Matrix_Operations.ipynb)
 
 ---
 
