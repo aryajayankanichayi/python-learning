@@ -88,6 +88,23 @@ This notebook covers foundational Python concepts with beginner-friendly example
  
 ---
 
+### 📘 05_Matrix_Operations.ipynb
+
+This notebook covers fundamental matrix operations using NumPy, including:
+
+- Matrix attributes:
+  - `dtype`, `size`, `shape`, `ndim`
+- Reshaping arrays:
+  - Flattening multi-dimensional arrays using `flatten()`
+  - Converting 1D arrays to 3D using `reshape()`
+- Matrix functions:
+  - `diagonal()`, `min()`, `max()`
+- Simple matrix multiplication example
+
+🔗 [View Notebook](https://github.com/your-username/your-repo-name/blob/main/05_Matrix_Operations.ipynb)
+
+---
+
 ## 🗂️ Repository Structure
 python-learning/
      01_Swapping_Variables.ipynb/
