@@ -117,15 +117,6 @@ This notebook includes examples and small programs related to Python functions. 
 - 🔢 Passing a list to a function
 - 🔐 Local and global variables
 
-### 🧪 Sample Programs Implemented
-
-- Function to add two numbers
-- Function returning square and cube of a number
-- Function to calculate factorial
-- Function to return sum and average of numbers
-- Function to find the largest element in a list
-- Function demonstrating default argument usage
-
 📎 **Notebook Link**: [07_Functions.ipynb](https://github.com/aryajayankanichayi/python-learning/blob/main/07_Functions.ipynb)
 
 
@@ -137,6 +128,7 @@ python-learning/
      04_Numpy.ipynb/
      05_Basics_in_python.ipynb/
      06_Matrix_Operations.ipynb/
+     07_Functions.ipynb/
      README.md
      
 ---
@@ -146,7 +138,6 @@ python-learning/
 I’ll continue adding new notebooks daily as I progress through:
 - Python basics
 - Data structures
-- DSA for placements
 - Data science mini projects
 
 ---
