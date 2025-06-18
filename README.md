@@ -105,6 +105,30 @@ This notebook covers fundamental matrix operations using NumPy, including:
 
 ---
 
+## 📘 07_Functions.ipynb
+
+This notebook includes examples and small programs related to Python functions. It demonstrates defining functions, returning values, using default arguments, and working with lists as function parameters.
+
+### 🔍 Topics Covered
+
+- ✅ Defining and calling functions
+- 🔁 Functions returning single and multiple values
+- 🧮 Default arguments
+- 🔢 Passing a list to a function
+- 🔐 Local and global variables
+
+### 🧪 Sample Programs Implemented
+
+- Function to add two numbers
+- Function returning square and cube of a number
+- Function to calculate factorial
+- Function to return sum and average of numbers
+- Function to find the largest element in a list
+- Function demonstrating default argument usage
+
+📎 **Notebook Link**: [07_Functions.ipynb](https://github.com/yourusername/your-repo-name/blob/main/05_Functions.ipynb)
+
+
 ## 🗂️ Repository Structure
 python-learning/
      01_Swapping_Variables.ipynb/
