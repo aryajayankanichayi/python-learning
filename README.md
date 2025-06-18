@@ -137,7 +137,7 @@ python-learning/
 
 I’ll continue adding new notebooks daily as I progress through:
 - Python basics
-- Data structures
+- [Data structures](https://github.com/aryajayankanichayi/DSA-With-Python)
 - Data science mini projects
 
 ---
