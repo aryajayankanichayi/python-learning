@@ -126,7 +126,7 @@ This notebook includes examples and small programs related to Python functions. 
 - Function to find the largest element in a list
 - Function demonstrating default argument usage
 
-📎 **Notebook Link**: [07_Functions.ipynb](https://github.com/yourusername/your-repo-name/blob/main/05_Functions.ipynb)
+📎 **Notebook Link**: [07_Functions.ipynb](https://github.com/aryajayankanichayi/python-learning/blob/main/07_Functions.ipynb)
 
 
 ## 🗂️ Repository Structure
